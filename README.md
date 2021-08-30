@@ -1,6 +1,22 @@
 # pathfinding-visualizer
 
-MUST HAVE PYGAME MODULE INSTALLED FOR USAGE
+Demo Video:
+
+
+
+Description:
+
+This is a pathfinding visualizer project that shows how DFS, BFS, A*, and Recursive Division work.
+
+
+How to run:
+
+Note: this was created under Python 3.8.
+
+Simply download the .py file and run it.
+
+
+To play the game:
 
 1. Click any node to make it a "start" node
 2. Click any node to make it an "end" node
@@ -19,3 +35,8 @@ MUST HAVE PYGAME MODULE INSTALLED FOR USAGE
    E. "c" - clear board besides start and end
 
    F. "BACKSPACE" - clear the entire board
+
+
+Libraries/Modules used:
+
+Pygame, math, random, and queue
