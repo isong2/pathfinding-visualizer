@@ -33,7 +33,7 @@ To play the game:
 
    D. "r" - Recursive Division maze-creating visualizer
 
-   E. "c" - clear board besides start and end
+   E. "c" - clear board besides start, end, and blocks
 
    F. "BACKSPACE" - clear the entire board
 
